@@ -15,7 +15,11 @@
   - My dream is to work at spacex as a quantum physicist
   - I know around 15 programming languages
   - I am the CEO of Tech Penguin INC.
+
+# What am I working on? 
+
+> Kane Programming Language ~ *A language for doing math very fast*
+
+<hr>
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechPenguineer&layout=compact)](https://github.com/TechPenguineer)
-
-
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechPenguineer)
