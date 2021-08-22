@@ -16,6 +16,6 @@
   - I know around 15 programming languages
   - I am the CEO of Tech Penguin INC.
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechPenguineer&layout=compact](https://github.com/TechPenguineer)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TechPenguineer&layout=compact)(https://github.com/TechPenguineer)
 
 
