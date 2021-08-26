@@ -18,7 +18,7 @@
 
 # What am I working on? 
 
-> Kane Programming Language ~ *A language for doing math very fast*
+> Icicle Programming Language ~ *A language for doing math very fast*
 
 <hr>
   
