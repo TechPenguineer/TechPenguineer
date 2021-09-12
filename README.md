@@ -16,11 +16,11 @@
   - I know around 15 programming languages
   - I am the CEO of Tech Penguin INC.
 
-# What am I working on? 
+# Dunamis
+So... um... yea. Programming is cool. To program things you need a language. ummm... so i made one :) its called dunamis and its sick as sh... shawty. Yea... anyways imma make a super weird and annoying advertisement to it rightttt below this
 
-> Icicle Programming Language ~ *A language for doing math very fast*
 
-> Lightning Delay - A mobile app for getting your local lightning distance easily
+<h1 style="font-size: 100px; color: yellow;" href="https://github.com/TechPenguineer/Dunamis">CLICK HERE TO GO TO PROJEKT</h1>
 
 <hr>
   
