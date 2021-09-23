@@ -18,8 +18,6 @@ Skills: JS / Python / C# / Cpp / C / Dunamis
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/techpenguineer)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=techpenguineer)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![GitHub metrics](https://metrics.lecoq.io/techpenguineer)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=techpenguineer)  
