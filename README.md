@@ -29,3 +29,10 @@ char * what_inc[] = "Zeno INC.";
 
 bool has_girlfriend = false;
 if(!has_girlfriend) { myself.emotion.append("Sad"); }
+```
+
+```bat warning
+
+Syntax Error: variable "emotion" is static. Emotion must equal to happy
+
+```
