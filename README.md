@@ -25,6 +25,10 @@ acomplishments[2] = "Slowly building a team of developers";
 bool works_for_inc = true;
 char * what_inc[] = "Zeno INC.";
 
+char * goal[] = "work at spacex";
+
+char * dream_job[] = "Software engineer at spacex";
+
 // Ranting about life problems below 
 
 bool has_girlfriend = false;
