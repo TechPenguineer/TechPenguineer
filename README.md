@@ -28,15 +28,4 @@ char * what_inc[] = "Zeno INC.";
 char * goal[] = "work at spacex";
 
 char * dream_job[] = "Software engineer at spacex";
-
-// Ranting about life problems below 
-
-bool has_girlfriend = false;
-if(!has_girlfriend) { myself.emotion.append("Sad"); }
-```
-
-```bat warning
-
-Syntax Error: variable "emotion" is static. Emotion must equal to happy
-
 ```
