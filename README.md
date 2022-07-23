@@ -1,6 +1,9 @@
 <h1 align="left" id="macropower-title">:wave: Hello there! I'm Ryan</h1>
 <h3 align="left">I am a inspring 14 Year Old developer</h3>
 
+![stats](https://github-readme-stats.vercel.app/api?username=techpenguineer&show_icons=true&hide_title=true&count_private=true&theme=radical)
+
+
 <p align="left">
   <a href="https://github.com/TechPenguineer/TechPenguineer">
     <img src="https://komarev.com/ghpvc/?username=TechPenguineer" alt="page views" />
