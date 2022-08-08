@@ -28,26 +28,6 @@
 
 <br>
 
-
-
-<h2 align="left">Coding Activity</h2>
-
-> Total logged time since 2022-07-16. Updated every 1 hour. [(Learn how this works)](https://macropower.readthedocs.io/en/latest/#dynamic-ascii-graph)
-
-<!-- prettier-ignore-start -->
-<!-- START_SECTION:ascii_graph -->
-
-```
-
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
-
-<!-- END_SECTION:ascii_graph -->
-<!-- prettier-ignore-end -->
-
-<!-- links -->
-
 [issues page]: https://github.com/TechPenguineer/TechPenguineer/issues "TechPenguineer/issues"
 [linkedin]: https://www.linkedin.com/in/ryan-rudd-639ba3223 "Ryan Rudd Linkedin"
 
